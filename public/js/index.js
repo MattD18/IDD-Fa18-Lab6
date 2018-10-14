@@ -36,8 +36,13 @@ socket.on('question', function(msg) {
 });
 
 socket.on('changeBG', function(msg) {
-  console.log('Changeing backgroundColor to:', msg);
-  document.body.style.backgroundColor = msg;
+  var colors = ['red','red',
+                'orange','orange',
+                'yellow','yellow','yellow',
+                'chartreuse','chartreuse',
+                'green','green']
+  console.log('Changeing backgroundColor to:', colors[msg]);
+  document.body.style.backgroundColor = colors[msg];
 });
 
 socket.on('changeFont', function(msg) {
