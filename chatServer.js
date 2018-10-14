@@ -43,7 +43,6 @@ io.on('connect', function(socket) {
     questionNum = botOutput[0]
     score = botOutput[1]
     questionAnswer = botOutput[2]
-    console.log(botOutput)
   });
   socket.on('disconnect', function() { // This function  gets called when the browser window gets closed
     console.log('user disconnected');
