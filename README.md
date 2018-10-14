@@ -1,6 +1,6 @@
 # ChatBot
 
-*A lab report by John Q. Student*
+*A lab report by Matthew Dalton*
 
 ## In this Report
 
@@ -10,8 +10,11 @@ To submit your lab, fork [this repository](https://github.com/FAR-Lab/IDD-Fa18-L
 
 **Describe what changes you made to the baseline chatbot here. Don't forget to push your modified code to this repository.**
 
+To change the baseline chatbot, I made a QuizBot that gives you simple arithmetic questions. The user must answer a certain amount of the question correctly in order to win. 
+
 ## Record someone trying out your ChatBot
 
+TO DO
 **Using a phone or other video device, record someone trying out your ChatBot. Upload that video to this repository and link to it here!**
 
 ---
