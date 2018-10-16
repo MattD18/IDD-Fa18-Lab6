@@ -10,7 +10,7 @@ To submit your lab, fork [this repository](https://github.com/FAR-Lab/IDD-Fa18-L
 
 **Describe what changes you made to the baseline chatbot here. Don't forget to push your modified code to this repository.**
 
-To change the baseline chatbot, I made a QuizBot that gives you simple arithmetic questions. The user must answer a certain amount of the question correctly in order to win. 
+To change the baseline chatbot, I made a QuizBot that gives the user simple arithmetic questions. The user must answer a certain amount of the questions correctly in order to win. 
 
 ## Record someone trying out your ChatBot
 
